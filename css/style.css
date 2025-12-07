@@ -1,0 +1,31 @@
+
+h1,h3{
+	color: blue;
+	font-size:30px;
+
+}
+.bg{
+	background-color:lightblue;
+}
+.heading2{
+	 font-size: 30px ;
+	 color:lightblue ;
+}
+.border{
+	 border:solid 5px lightblue;
+	 
+	 
+}
+#text{
+		font-size:50px ;
+}
+.box h3{
+	 	color:lightblue; background-color: steelblue;
+}
+
+h3:hover{
+ background-color:beige ;
+ color: darkgreen;
+
+
+}
